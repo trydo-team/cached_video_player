@@ -32,7 +32,7 @@ android {
       namespace 'com.lazyarts.vikram.cached_video_player'
     }
 
-    compileSdkVersion 34
+    compileSdkVersion 29
 
     defaultConfig {
         minSdkVersion 24
